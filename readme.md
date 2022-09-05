@@ -10,4 +10,9 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
+1. `git clone https://github.com/ObelusFamily/Anythink-Market-jgmdq.git`
+2. `cd Anythink-Market-jgmdq`
+3. `docker-compose up`
+4. `docker exec`
+
 **[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
